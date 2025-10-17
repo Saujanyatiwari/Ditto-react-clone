@@ -7,6 +7,7 @@ import Experience from "./components/Experience.jsx";
 import Working from "./components/Working.jsx";
 import Profile from "./components/Profile.jsx";
 import Booking from "./components/Booking.jsx";
+import Checklist from "./components/Checklist.jsx";
 
 function App() {
   return(
@@ -19,6 +20,7 @@ function App() {
       <Profile />
       <Working />
       <Booking />
+      <Checklist />
     </main>
   );
 }
