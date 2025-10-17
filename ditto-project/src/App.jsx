@@ -8,6 +8,7 @@ import Working from "./components/Working.jsx";
 import Profile from "./components/Profile.jsx";
 import Booking from "./components/Booking.jsx";
 import Checklist from "./components/Checklist.jsx";
+import Footer from "./components/Footer.jsx"
 
 function App() {
   return(
@@ -21,6 +22,7 @@ function App() {
       <Working />
       <Booking />
       <Checklist />
+      <Footer />
     </main>
   );
 }
