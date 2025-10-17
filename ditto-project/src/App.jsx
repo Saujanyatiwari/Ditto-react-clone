@@ -4,6 +4,8 @@ import Linebreak from "./components/Linebreak.jsx";
 import Herosection from "./components/Herosection.jsx";
 import Offers from "./components/Offers.jsx";
 import Experience from "./components/Experience.jsx";
+import Working from "./components/Working.jsx";
+import Profile from "./components/Profile.jsx";
 
 function App() {
   return(
@@ -13,6 +15,8 @@ function App() {
       <Herosection />
       <Offers />
       <Experience />
+      <Profile />
+      <Working />
     </main>
   );
 }

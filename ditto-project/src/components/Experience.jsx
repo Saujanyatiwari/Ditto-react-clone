@@ -16,7 +16,7 @@ function Experience() {
                 <ul className='pt-[3.5cm] bg-blue-100'>
                     <li className='text-4xl font-semibold text-gray-800 ml-[4cm] mr-[1cm] mb-[0.5cm] max-w-64'>The Ditto Experience</li>
                     <li>
-                        <img className='w-[12cm] h-[15cm]'
+                        <img className='w-[12cm] h-[42cm]'
                 src={Experience1} 
                 alt="Experience Illustration" />
                     </li>
