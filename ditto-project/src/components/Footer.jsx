@@ -4,7 +4,7 @@ import button from '../assets/button.png'
 
 function Footer(){
     return (
-        <body className="bg-gray-100">
+        <div className="bg-gray-100">
         <main className="flex flex-col my-[1cm] mx-[3cm]">
             <article className="flex flex-row justify-between">
                 <section>
@@ -113,7 +113,7 @@ function Footer(){
                 </div>
             </article>
         </main>
-        </body>
+        </div>
     );
 }
 
