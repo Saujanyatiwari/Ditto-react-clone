@@ -6,6 +6,7 @@ import Offers from "./components/Offers.jsx";
 import Experience from "./components/Experience.jsx";
 import Working from "./components/Working.jsx";
 import Profile from "./components/Profile.jsx";
+import Booking from "./components/Booking.jsx";
 
 function App() {
   return(
@@ -17,6 +18,7 @@ function App() {
       <Experience />
       <Profile />
       <Working />
+      <Booking />
     </main>
   );
 }
